@@ -31,6 +31,4 @@
 <ul>
 <li>Juan Manuel Jiménez Celis (jm.jimenezc12@uniandes.edu.co)</li>
 <li>Andrés Lombo Caicedo (a.lombo@uniandes.edu.co)</li>
-<li>Luz Stella Ochoa Marin (ls.ochoa@uniandes.edu.co)</li>
-<li>Juan Manuel González Garzón (jm.gonzalez1844@uniandes.edu.co)</li>
 </ul>
